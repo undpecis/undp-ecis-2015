@@ -12,7 +12,7 @@
             title: 'Conflict Prevention and Peacebuilding',
             shortName: 'conflictData',
             shortIntroText: 'With a legacy of conflict throughout Europe and Central Asia, UNDP works to promote social cohesion, and empower nations and communities to become more inclusive and resilient to external and internal shocks.',
-            sectionPdfUrl: '#',
+            sectionPdfUrl: 'https://undpecis.github.io/download/01-conflict-prevention-and-peacebuilding.pdf',
             pictogramModals: {
                 gender: {
                     title: ' <p class="c-red-text"><strong>GOAL 5 – ACHIEVE GENDER EQUALITY AND EMPOWER ALL WOMEN AND GIRLS</strong></p>',
