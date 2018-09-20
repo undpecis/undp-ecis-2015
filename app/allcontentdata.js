@@ -405,7 +405,7 @@
             id: 'AM',
             title: 'Armenia',
             flagClass: 'c-armenia',
-            sectionPdfUrl: '#',
+            sectionPdfUrl: 'https://undpecis.github.io/download/country-profiles-armenia.pdf',
             statement: {
                 img: 'armenia.jpg',
                 imgThumb: 'armenia-thumb.jpg'
@@ -455,7 +455,7 @@
             id: 'AZ',
             title: 'Azerbaijan',
             flagClass: 'c-azerbaijan',
-            sectionPdfUrl: '#',
+            sectionPdfUrl: 'https://undpecis.github.io/download/country-profiles-azerbaijan.pdf',
             statement: {
                 img: 'azerbaijan.jpg',
                 imgThumb: 'azerbaijan-thumb.jpg',
